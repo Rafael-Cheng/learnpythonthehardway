@@ -1,0 +1,81 @@
+What we've learnt
+
+ex01 and ex02
+1.how to print a string?
+code:
+print "Hello, my friend"
+2.how to write annotate?
+use '#'
+3.how to use unicode?
+use # -*-coding:utf-8-*-
+4.read backwords to find mistakes
+
+ex03
+1.math symbols
+2.floating point numbers
+3.modulus %
+
+ex04
+1.variable names
+2.differences between "=" and "=="
+
+ex05
+1.format string
+2.raw data %r
+
+ex06
+1.difference between %r and %s
+2.single-quotes and double-quotes
+
+ex07, ex08, ex09
+string exercises
+
+ex10
+1.secape sequence
+2.use triple double-quotes """ to write multi-line string
+
+ex11
+1.to get input from user, use:
+raw_input()
+
+ex12
+1.use pydoc to get information
+
+ex13
+1. use modules
+example: from sys import argv
+2.argument variable argv
+3.command line argument
+4.packing and unpacking variables
+
+ex14
+1.put argument in raw_input() as prompt
+
+ex15
+1.open file and read file
+2.file object
+
+ex16
+1.functions for file operation
+close(), read(), readline(), truncate(), write()
+2.mode
+'r+', 'w+', 'a+'
+
+ex17
+1.more modules
+form os.path import exists
+2.don't need to close if there's no file object
+
+ex18
+1.define functions and pass arguments
+2.(*args)asterisk args
+
+ex19
+1.various ways to call a function
+
+ex20
+1.seek and readline() function of file
+2.shorthand notation +=
+
+ex21
+1.return value of a function
